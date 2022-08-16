@@ -1,6 +1,6 @@
 # Datasets for testing McCoy
 
-This repo contains data and scripts for testing realtime the realtime phylodynamics package McCoy. 
+This repo contains data and scripts for testing the realtime phylodynamics package McCoy. 
 
 ## process data into groups 
 
